@@ -1,6 +1,6 @@
 '''
 # Python
-#this is updated
+#this is updated twice
 #Suppose we have a file (module) with the following
 class definition
 module variable 1 last_id = -1
